@@ -204,7 +204,7 @@ This compares favorably to the accuracy on the test set of 0.948.
 The code for making predictions on my final model is located in the 11th cell of the Ipython notebook.
 
 For the six images, the model is very sure with its prediction. For the correct class, the softmax probability came out to be ~1.0, with the probabilities
-of the next 4 classes being at least below <math><mrow><msup>10 -8</msup></mrow></math>.
+of the next 4 classes being at least below 10^-8.
 
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
